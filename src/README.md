@@ -1,1 +1,1 @@
-hi
+Learning Java through coding programs
